@@ -11,7 +11,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Bienvenido a "
+        android:text="@string/welcome0"
         android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -29,7 +29,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Programaciòn de "
+        android:text="@string/welcome"
         android:textSize="25sp"
         android:gravity="center"
         tools:layout_editor_absoluteX="102dp"
@@ -38,7 +38,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Dispositivos "
+        android:text="@string/welcome2"
         android:textSize="25sp"
         android:gravity="center"
         tools:layout_editor_absoluteX="102dp"
@@ -47,7 +47,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Mòviles"
+        android:text="@string/welcome3"
         android:textSize="25sp"
         android:gravity="center"
         tools:layout_editor_absoluteX="102dp"
